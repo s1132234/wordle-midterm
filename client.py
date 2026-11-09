@@ -4,7 +4,7 @@ import pygame
 import requests
 
 # 桌面 client 在本機執行，透過這個網址呼叫雲端 FastAPI server。
-API_BASE_URL = "https://你的服務名稱.onrender.com"
+API_BASE_URL = "https://wordle-midterm-0eco.onrender.com"
 #API_BASE_URL = "http://127.0.0.1:8000"
 
 # 顏色定義
